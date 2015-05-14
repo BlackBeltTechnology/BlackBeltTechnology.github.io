@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="JudoProfile" version="3">
+  <DEPS>
+    <ID name="JudoProfile" mc="Profile" uid="2d89516d-2099-4d2a-8828-b663a898a4c6"/>
+    <COMPID name="bo" mc="Stereotype" uid="0ef01c96-1513-41f9-8a83-b9ae874ab430"/>
+    <COMPID name="bo" mc="Stereotype" uid="6c1e5e47-55bd-4856-b110-5ca0fbe3d53c"/>
+    <COMPID name="dto" mc="Stereotype" uid="d79e22c2-a81a-439b-a7c4-7d87d08b8e70"/>
+    <COMPID name="dto" mc="Stereotype" uid="5b60d9fc-b3ae-4cac-8668-e1d1b8e79c5c"/>
+    <COMPID name="package" mc="Stereotype" uid="13b5cf9b-20ab-4451-a398-32b6ec9500b5"/>
+    <COMPID name="rest" mc="Stereotype" uid="8f93b2c5-dce5-4fa2-825c-a42ddf7e79ce"/>
+    <COMPID name="rest" mc="Stereotype" uid="4eacf0d3-2a44-4013-8734-51a5ac9a5574"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="JudoProfile" mc="Profile" uid="2d89516d-2099-4d2a-8828-b663a898a4c6"/>
+    <PID name="JUDO Module" mc="ModuleComponent" uid="1bd5662a-3e0d-4afc-8a2a-c31db7e82fc1"/>
+    <ATTRIBUTES>
+      <ATT name="JCode"></ATT>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[JudoProfile]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="bo" mc="Stereotype" uid="6c1e5e47-55bd-4856-b110-5ca0fbe3d53c"/>
+        <COMPID name="bo" mc="Stereotype" uid="0ef01c96-1513-41f9-8a83-b9ae874ab430"/>
+        <COMPID name="dto" mc="Stereotype" uid="5b60d9fc-b3ae-4cac-8668-e1d1b8e79c5c"/>
+        <COMPID name="dto" mc="Stereotype" uid="d79e22c2-a81a-439b-a7c4-7d87d08b8e70"/>
+        <COMPID name="rest" mc="Stereotype" uid="8f93b2c5-dce5-4fa2-825c-a42ddf7e79ce"/>
+        <COMPID name="rest" mc="Stereotype" uid="4eacf0d3-2a44-4013-8734-51a5ac9a5574"/>
+        <COMPID name="package" mc="Stereotype" uid="13b5cf9b-20ab-4451-a398-32b6ec9500b5"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

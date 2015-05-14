@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Types" version="3">
+  <DEPS>
+    <ID name="Types" mc="Package" uid="a35d8df1-8523-4e2d-87f8-9eeab2872373"/>
+    <COMPID name="boolean" mc="DataType" uid="eecc605f-2fad-423f-b2c8-d3c2ffadea2c"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="Types" mc="Package" uid="a35d8df1-8523-4e2d-87f8-9eeab2872373"/>
+    <PID name="judo module" mc="Package" uid="0ae6fa8f-5e86-4e3c-8fe8-584bc0c0411e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Types]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="boolean" mc="DataType" uid="eecc605f-2fad-423f-b2c8-d3c2ffadea2c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
