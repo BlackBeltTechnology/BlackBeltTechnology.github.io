@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="package" version="3">
+  <DEPS>
+    <ID name="package" mc="Stereotype" uid="13b5cf9b-20ab-4451-a398-32b6ec9500b5"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="package" mc="Stereotype" uid="13b5cf9b-20ab-4451-a398-32b6ec9500b5"/>
+    <PID name="JudoProfile" mc="Profile" uid="2d89516d-2099-4d2a-8828-b663a898a4c6"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="LabelKey"><![CDATA[package]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Package]]></ATT>
+      <ATT name="Name"><![CDATA[package]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

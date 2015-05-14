@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="judo module" version="3">
+  <DEPS>
+    <ID name="judo module" mc="Package" uid="0ae6fa8f-5e86-4e3c-8fe8-584bc0c0411e"/>
+    <COMPID name="JUDO Module" mc="Artifact" uid="5c6be2dc-6286-4eda-af3f-5ee31fbfabae"/>
+    <COMPID name="Types" mc="Package" uid="a35d8df1-8523-4e2d-87f8-9eeab2872373"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="judo module" mc="Package" uid="0ae6fa8f-5e86-4e3c-8fe8-584bc0c0411e"/>
+    <PID name="JUDO Module" mc="Project" uid="d4862959-f749-4111-8377-aa20e2a70ce9"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[judo module]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="JUDO Module" mc="Artifact" uid="5c6be2dc-6286-4eda-af3f-5ee31fbfabae"/>
+        <COMPID name="Types" mc="Package" uid="a35d8df1-8523-4e2d-87f8-9eeab2872373"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
